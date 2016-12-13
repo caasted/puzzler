@@ -7,7 +7,7 @@ There were many design considerations taken into account for this project, inclu
 ## Puzzler
 This project was successful thanks to an iterative approach that was used to make improvements to the game. My test users and I have enjoyed playing it and I hope many others will too.
 
-[<img src="https://i.ytimg.com/vi/RhPmb2DC6qI/2.jpg?time=1481672199766" alt="Puzzler Walkthrough Video" width="560" height="315px"><br>Click to watch Puzzler Walkthrough Video](https://youtu.be/RhPmb2DC6qI "Puzzler Walkthrough Video")
+[<img src="https://github.com/caasted/puzzler/blob/master/images/Screenshot1.png" alt="Puzzler Walkthrough Video" width="560"><br>Click to watch Puzzler Walkthrough Video](https://youtu.be/RhPmb2DC6qI "Puzzler Walkthrough Video")
 
 ## Design process
 **Statement of Purpose:** Puzzler is a mobile VR application for new VR users that challenges them to solve a familiar type of puzzle in a new way.
@@ -15,7 +15,7 @@ This project was successful thanks to an iterative approach that was used to mak
 ### Persona
 For this project I created a user persona called Tim:
 <table><tr><td width=150>
-<img src="https://raw.githubusercontent.com/caasted/puzzler/master/images/persona.png" alt="Perona Sketch" style="width: 150px;"/>
+<img src="https://github.com/caasted/puzzler/blob/master/images/persona.png" alt="Perona Sketch" width="150" height="150">
 </td><td>
 Tim, 28 – Sales Representative
 <br>“I like playing quick games between tasks at work.”
@@ -25,9 +25,9 @@ Tim, 28 – Sales Representative
 ### Sketches
 Here are some of the conceptual sketches that I created to lay the groundwork for designing this project:
 
-<SKETCH>
+<img src="https://github.com/caasted/puzzler/blob/master/images/sketch1.jpg" alt="Overall Design Sketch" width="300">
 
-<SKETCH>
+<img src="https://github.com/caasted/puzzler/blob/master/images/sketch2.jpg" alt="Panel Design Sketch" width="300">
 
 ## User testing outcomes and iteration
 
@@ -36,6 +36,7 @@ I conducted a user test with one user who had minimal prior experience with VR t
 
 ## Breakdown of the final piece
 
+<img src="https://github.com/caasted/puzzler/blob/master/images/Screenshot1.png" alt="Puzzler App Screenshot" width="560">
 
 ## Conclusion
 
