@@ -1,5 +1,5 @@
 # Chris's Puzzler Project
-For the VR Developer Nanodegree at Udacity, I designed, tested, and iterated on a mobile VR app called Puzzler. In this app the user enters a dungeon and plays a game of Simon says in order to solve the puzzle and exit the dungeon.
+For the VR Developer Nanodegree at Udacity, I designed, tested, and iterated on a mobile VR app called Puzzler. In this app the user enters a dungeon and plays a game of <em>Simon Says</em> in order to solve the puzzle and exit the dungeon.
 
 ### Unique Considerations
 There were many design considerations taken into account for this project, including scale, thematic lighting and sound, and user comfort during sequences involving motion.
@@ -7,7 +7,7 @@ There were many design considerations taken into account for this project, inclu
 ## Puzzler
 This project was successful thanks to an iterative approach that was used to make improvements to the game. My test users and I have enjoyed playing it and I hope many others will too.
 
-[<img src="https://github.com/caasted/puzzler/blob/master/images/Screenshot1.png" alt="Puzzler Walkthrough Video" width="560"><br>Click to watch Puzzler Walkthrough Video](https://youtu.be/RhPmb2DC6qI "Puzzler Walkthrough Video")
+[<img src="https://github.com/caasted/puzzler/blob/master/images/Screenshot1.png" target="_blank" alt="Puzzler Walkthrough Video" width="560"><br>Click to watch Puzzler Walkthrough Video](https://youtu.be/RhPmb2DC6qI "Puzzler Walkthrough Video")
 
 ## Design process
 **Statement of Purpose:** Puzzler is a mobile VR application for new VR users that challenges them to solve a familiar type of puzzle in a new way.
