@@ -7,7 +7,7 @@ There were many design considerations taken into account for this project, inclu
 ## Puzzler
 This project was successful thanks to an iterative approach that was used to make improvements to the game. My test users and I have enjoyed playing it and I hope many others will too.
 
-<a href="https://youtu.be/RhPmb2DC6qI" alt="Puzzler Walkthrough Video" target="_blank"><img src="https://github.com/caasted/puzzler/blob/master/images/Screenshot1.png" alt="Puzzler Walkthrough Video" width="560">
+<a href="https://youtu.be/RhPmb2DC6qI" alt="Puzzler Walkthrough Video" target="_blank"><img src="https://github.com/caasted/puzzler/blob/master/images/Screenshot_20161213-140337.png" alt="Puzzler Walkthrough Video" width="560">
 <br>Click to watch Puzzler Walkthrough Video</a>
 
 ## Design process
